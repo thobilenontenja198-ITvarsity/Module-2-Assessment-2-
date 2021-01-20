@@ -203,6 +203,13 @@ a.info-box{
     
 }
 
+#info-box-full .shops-img{
+    width: 100%;
+    margin: auto;
+    
+}
+
+
 /************* WEATHER **************/
 
 img.info-box-weather-icon{
