@@ -216,6 +216,14 @@ a.info-box{
 }
 
 
+
+#info-box-full .feedback-img{
+    width: 100%;
+    margin: auto;
+    
+}
+
+
 /************* WEATHER **************/
 
 img.info-box-weather-icon{
